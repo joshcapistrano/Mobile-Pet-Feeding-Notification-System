@@ -1,0 +1,8 @@
+{
+  "notification_time": 30,
+  "breakfast_hour": 9,
+  "emails": "[emily@email]",
+  "dinner_hour": 18,
+  "breakfast_minute": 30,
+  "dinner_minute": 36
+}
